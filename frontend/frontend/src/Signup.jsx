@@ -19,7 +19,7 @@ export default function Signup(){
                         <input type="password" placeholder='Create your Password' className='form-control rounded-0'/>
                     </div>
                     <button className='btn btn-success w-100'>Signup</button>
-                    <p style={{textAlign:'center'}}>By singing up <br />You agree to our terms and conditions.</p>
+                    <p style={{textAlign:'center'}}>By singing up <br />You agree to our terms and policies.</p>
                     <Link to='/' className='btn btn-default border w-100 bg-light text-decoration-none'>Login</Link>
                 </form>
             </div>
